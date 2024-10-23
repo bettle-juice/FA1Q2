@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  margin: 0 15%;
+  width: 75%;
+  border: 2px solid blue;
+  font-family: sans-serif;
+}
+
+h1 {
+  background-color: lightgray;
+  margin-top: 20px;
+  padding: 0;
+}
+
+h2 {
+  background-color: lightgray;
+  font-style: italic;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-family: monospace;
+  margin-bottom: 20px; 
+}
+
+.content-container {
+  border: 1px solid #ccc; 
+  padding: 20px; 
+  margin-bottom: 20px; 
+}
